@@ -14,6 +14,3 @@ class App {
 }
 
 bootstrapApplication(App);
-
-//i did not do anything to be honest because i was preparing for the job dating hahah
-//comment
